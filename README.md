@@ -42,6 +42,6 @@ index.html (Inicio)
 
 ## 🧪 Cómo visualizar el proyecto
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/alejapdb/Clinica-Sonria.git
+1. Pages GitHub
+
+   https://alejapdb.github.io/Clinica-Sonria/
